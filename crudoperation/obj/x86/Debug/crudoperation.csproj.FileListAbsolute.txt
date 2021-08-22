@@ -1,0 +1,9 @@
+c:\users\shree\documents\visual studio 2010\Projects\crudoperation\crudoperation\bin\Debug\crudoperation.exe.config
+c:\users\shree\documents\visual studio 2010\Projects\crudoperation\crudoperation\bin\Debug\crudoperation.exe
+c:\users\shree\documents\visual studio 2010\Projects\crudoperation\crudoperation\bin\Debug\crudoperation.pdb
+c:\users\shree\documents\visual studio 2010\Projects\crudoperation\crudoperation\obj\x86\Debug\crudoperation.Form1.resources
+c:\users\shree\documents\visual studio 2010\Projects\crudoperation\crudoperation\obj\x86\Debug\crudoperation.Properties.Resources.resources
+c:\users\shree\documents\visual studio 2010\Projects\crudoperation\crudoperation\obj\x86\Debug\crudoperation.csproj.GenerateResource.Cache
+c:\users\shree\documents\visual studio 2010\Projects\crudoperation\crudoperation\obj\x86\Debug\crudoperation.exe
+c:\users\shree\documents\visual studio 2010\Projects\crudoperation\crudoperation\obj\x86\Debug\crudoperation.pdb
+C:\Users\Shree\documents\visual studio 2010\Projects\crudoperation\crudoperation\obj\x86\Debug\crudoperation.csprojResolveAssemblyReference.cache
